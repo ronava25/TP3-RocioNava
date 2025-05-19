@@ -1,0 +1,9 @@
+setup.py
+TuModeloDeClientes_Nava.egg-info/PKG-INFO
+TuModeloDeClientes_Nava.egg-info/SOURCES.txt
+TuModeloDeClientes_Nava.egg-info/dependency_links.txt
+TuModeloDeClientes_Nava.egg-info/top_level.txt
+paquete_cliente/__init__.py
+paquete_cliente/acciones.py
+paquete_cliente/clientes.py
+paquete_cliente/usuarios.py

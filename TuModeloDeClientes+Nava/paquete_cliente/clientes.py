@@ -1,4 +1,4 @@
-from Paquete.usuarios import Usuario
+from paquete_cliente.usuarios import Usuario
 
 class Cliente(Usuario):
     def __init__(self, nombre, apellido, correo, contrasena):

@@ -1,0 +1,43 @@
+Unidad 11: Playground Intermedio parte II
+Repaso/consultas de la clase práctica en vivo anterior
+Actividad: Herencia y Navegación
+Consigna: Completar la herencia múltiple del proyecto AppCoder.
+
+Terminar de configurar y heredar el resto de los templates de nuestro proyecto AppCoder:
+
+entregables.html estudiantes.html profesores.html.
+
+El contenido del HTML, de cada archivo queda a criterio del alumno, seamos creativos ☺
+
+Duración: 20 minutos
+
+Ejemplo en vivo
+Consigna: Ahora veremos cómo agregar instancias de alguna clase desde el admin.
+
+Duración: 10 minutos
+
+Actividad: Agregar datos a nuestro model
+Consigna: Por medio del panel de administración cargar dos modelos distintos con datos.
+
+Crear un superusuario para poder ingresar al panel de administración. Una vez ingresados, agregar datos a dos modelos distintos (botón add).
+
+Duración: 15 minutos
+
+Ejemplo en vivo:
+Consigna: Ahora carguemos algo que tenga más datos para ir perdiendo el temor. Con la práctica se hace el maestro😏
+
+Duración: 10 minutos
+
+Actividad: Agregar con un API form
+Consigna: Agregar datos a una tabla de BD por medio de un Api Form.
+
+Crear un Api Form que permita insertar datos a la base de datos de tu proyecto, una vez terminado verificar dichos datos en la BD.
+
+Luego, instanciar a dos personas.
+
+Duración: 10 minutos
+
+Cierre y preguntas
+Resumen de la clase repasando los puntos clave vistos durante la unidad. Espacio para consultas finales.
+
+Propiedades django: https://docs.djangoproject.com/en/5.1/ref/forms/fields/

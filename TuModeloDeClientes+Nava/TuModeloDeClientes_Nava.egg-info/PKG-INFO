@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: TuModeloDeClientes-Nava
+Version: 0.1.0
+Summary: Paquete redistribuible correspondiente al Trabajo Practico No. 2 de la clase de Python de Coderhouse
+Author: Rocio Nava
+Author-email: rocionavaserpa@gmail.com
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-python
+Dynamic: summary

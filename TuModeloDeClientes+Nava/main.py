@@ -1,7 +1,9 @@
-from Paquete.acciones import Acciones
+from paquete_cliente import Cliente
+from paquete_cliente import Usuario
+from paquete_cliente import ver_usuarios, nuevo_usuario, login
 
 def main():
-    acciones = Acciones()
+    database = {}
 
     while True:
         print("\n--- Menú Principal ---")
@@ -13,11 +15,11 @@ def main():
         opcion = input("Seleccione una opción: ")
 
         if opcion == "1":
-            acciones.nuevo_usuario()
+            nuevo_usuario(database)
         elif opcion == "2":
-            acciones.ver_usuarios()
+            ver_usuarios(database)
         elif opcion == "3":
-            acciones.login()
+            login(database)
         elif opcion == "4":
             print("Sesión finalizada.")
             break
